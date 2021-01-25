@@ -17,8 +17,8 @@ namespace Mikro_vaylä_ennakkotehtävä
 
         string status = "[102, 64, 1, crc16]";
         string version = "[103, 64, 1, crc16]";
-        string output1On = "[140,64,1,data,crc16]";
-        string output4On = "[140,64,1,data,crc16]";
+        string output1On = "[140,64,1,4.1,crc16]";
+        string output4On = "[140,64,1,1.1,crc16]";
         //float[] status2 = { 102, from, to };
 
 
